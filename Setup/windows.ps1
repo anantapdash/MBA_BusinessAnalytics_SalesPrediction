@@ -16,7 +16,7 @@ uv venv --python=3.13
 .venv\Scripts\activate
 
 # Install required packages
-uv pip install scikit-learn pandas numpy matplotlib seaborn jupyter
+uv pip install scikit-learn pandas numpy matplotlib seaborn jupyter openpyxl
 
 # Start Jupyter Notebook
 jupyter notebook
