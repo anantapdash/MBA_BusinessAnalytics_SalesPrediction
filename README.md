@@ -1,6 +1,6 @@
 # Sales Prediction Case Study
 
-This project is a group assignment for the MBA session on Business Analytics and Data Science. The main analyses are performed in [`py_final_CaseStudy.ipynb`](py_final_CaseStudy.ipynb).
+This project is a group assignment for the MBA session on Business Analytics and Data Science. The main analyses are performed in [`py_final_CaseStudy.ipynb`](py_Final_CaseStudy.ipynb).
 
 ## Overview
 
@@ -54,7 +54,7 @@ The model achieves high accuracy, precision, and recall on the test data, indica
 
 ## Files
 
-- [`py_final_CaseStudy.ipynb`](py_final_CaseStudy.ipynb): Python-based analysis notebook.
+- [`py_final_CaseStudy.ipynb`](py_Final_CaseStudy.ipynb): Python-based analysis notebook.
 - `customer.xlsx`, `logistic_partner.xlsx`, `sales_transactions_star_schema.xlsx`, `material.xlsx`, `warehouse.xlsx`: Input data files.
 - `Confusion_Matrix/`: Folder containing output images (confusion matrices, metrics, decision tree visualizations).
 
